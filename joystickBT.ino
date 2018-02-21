@@ -11,7 +11,7 @@ void setup() {
   Serial.begin(115200);
   DDRD = B00000000;
   PORTD = B11111100;
-  DDRB = B00100000; //no pin 13 because led
+  DDRB = B00100000; //no input on pin 13 because led
   PORTB = B00011111;
   DDRC = B00000000;
   PORTC = B00111111;
