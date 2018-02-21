@@ -6,6 +6,9 @@ buttons from d2-d12,
 dpad from a0-a3
 
 rn42 settings:
+
+
+
 $$$
 
 CMD
