@@ -5,18 +5,23 @@ buttons from d2-d12
 dpad from a0-a3
 
 rn42 settings:
-$$$                 
-    CMD
+$$$
+CMD
+
 SM,6
-    AOK
+AOK
+
 SN,rn42joy
-    AOK
+AOK
+
 S~,6
-    AOK
+AOK
+
 SH,0240
-    AOK
+AOK
+
 R,1
-    Reboot!
+Reboot!
 
 
 ![rn42](https://raw.githubusercontent.com/chukione/arduinominirn42hidjoystick/master/IMG_20180221_153508.jpg)
