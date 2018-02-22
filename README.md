@@ -37,6 +37,7 @@ AOK
 R,1
 
 Reboot!
+![sch](https://raw.githubusercontent.com/chukione/arduinominirn42hidjoystick/master/sch.png)
 
 
 ![rn42](https://raw.githubusercontent.com/chukione/arduinominirn42hidjoystick/master/IMG_20180221_153508.jpg)
